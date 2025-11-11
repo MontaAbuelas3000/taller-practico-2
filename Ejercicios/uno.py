@@ -44,7 +44,7 @@ if tarjeta == "s":
 total_pagar = total_compra - descuento_total
 
 # Imprimimos el resultado
-print(f"El valor a pagar es de: ${total_pagar:.2f}")
+print(f"El valor a pagar es de: ${total_pagar}")
 
 
 
