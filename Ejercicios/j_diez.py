@@ -1,4 +1,24 @@
-# --- SISTEMA SIMPLE DE INVENTARIO TECH ---
+#EJERCICIO 10: Sistema de Inventario de Tienda
+# Contexto:
+# Administras una pequeña tienda de tecnología y necesitas un sistema para controlar tu inventario. Tienes
+# 5 productos diferentes con stock limitado. El sistema debe permitir ventas, reabastecimientos y consultas.
+# Productos iniciales:
+# Mouse inalámbrico: 15 unidades, $35,000 c/u
+# Teclado mecánico: 8 unidades, $180,000 c/u
+# Audífonos Bluetooth: 12 unidades, $120,000 c/u
+#Webcam HD: 5 unidades, $95,000 c/u
+# USB 32GB: 25 unidades, $15,000 c/u
+# Tu tarea:
+# Crea un programa que:
+# 1. Muestre el inventario completo con stock y precios
+# 2. Permita realizar ventas (validando que haya stock)
+# 3. Calcule el total de la venta (con IVA del 19%)
+# 4. Actualice el inventario después de cada venta
+# 5. Permita reabastecer productos
+# 6. Genere alertas cuando un producto tenga menos de 3 unidades
+# 7. Muestre el valor total del inventario
+# 8. Muestre un reporte de ventas del día (productos vendidos, cantidad, ingresos totales)
+# 9. Identifique el producto más vendido
 
 # Productos iniciales
 mouse = 15
